@@ -1,0 +1,8 @@
+﻿;Train;Test;Validation
+Clean;4000;2000;2000
+JavaScript;2363;1188;1214
+JavaScript in HTML;2284;1167;1162
+PowerShell;2468;1164;1213
+Ethereum Addresses;2473;1247;1193
+URL/IP addresses;2412;1234;1218
+Total;16000;8000;8000

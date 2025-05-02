@@ -1,2 +1,6 @@
-https://www.kaggle.com/datasets/marcozuppelli/stegoimagesdataset
-https://github.com/YangzlTHU/IStego100K
+1st dataset:
+https://www.kaggle.com/datasets/marcozuppelli/stegoimagesdataset     (This one was used for training, validation and testing)
+
+2nd dataset:
+https://www.kaggle.com/datasets/diegozanchett/digital-steganography  (only the lsb directory(without grayscale)) (I wanted to check if the model could have good predictions
+on a different set of images. The first Dataset has logo's and this one has pictures of landscapes).

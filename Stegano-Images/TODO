@@ -1,4 +1,0 @@
--Prétraitement: convertir en grayscale + appliquer des rotations, empeche le modèle d'apprendre des motifs fixes et donc generalise
--Extraction des features: les calculer ensuite les soumettre à un SVM ou un autre classifieur
--Architecture ANN recommandée: 8 neurones en entrée (correspondant aux 8 features), [4, 2] neurones,ReLU,1 neurone (sigmoïde pour binaire),Adam,64,250,Testé avec Grid Search + Monte Carlo Cross Validation pour une robustesse max.
--
