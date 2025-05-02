@@ -22,6 +22,20 @@ This project presents a deep learning approach to detect LSB (Least Significant 
 - **Link**: [Kaggle - stegoimagesdataset](https://www.kaggle.com/datasets/marcozuppelli/stegoimagesdataset)  
 - **Details**: Contains logo-type images in clean and LSB-stego versions.
 
+**Data Breakdown:**
+
+| Category              | Train | Test | Validation |
+|-----------------------|-------|------|------------|
+| Clean                 | 4000  | 2000 | 2000       |
+| JavaScript            | 2363  | 1188 | 1214       |
+| JavaScript in HTML    | 2284  | 1167 | 1162       |
+| PowerShell            | 2468  | 1164 | 1213       |
+| Ethereum Addresses    | 2473  | 1247 | 1193       |
+| URL/IP addresses      | 2412  | 1234 | 1218       |
+| **Total**             | 16000 | 8000 | 8000       |
+
+---
+
 ### 🌄 otherdataset (used for cross-dataset generalization test)
 - **Name**: Digital Steganography Dataset by Diego Zanchettin  
 - **Link**: [Kaggle - digital-steganography](https://www.kaggle.com/datasets/diegozanchett/digital-steganography)  
