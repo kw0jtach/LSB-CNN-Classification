@@ -1,4 +1,4 @@
-# 🧠 LSB Steganalysis with CNN and Laplacian Filtering
+# 🧠 LSB Classification with CNN and Laplacian Filtering
 
 This project presents a deep learning approach to detect LSB (Least Significant Bit) steganography in RGB PNG images. It leverages the ResNet18 architecture enhanced with Laplacian preprocessing and robustness-focused augmentations (noise, blur, etc.) to improve generalization under real-world distortions.
 
